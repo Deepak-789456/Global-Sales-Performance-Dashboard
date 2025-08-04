@@ -1,1 +1,5 @@
-# Global-Sales-Performance-Dashboard
+Project Tittle:- Global Sales Performance 
+Description:- This dashboard provides a comprehensive overview of global sales performance. Key metrics are highlighted, including a total sales figure of 2 million  and a profit of 175,000, with an average delivery time of 4 days.The dashboard uses various visualizations to break down sales data. A donut chart    shows sales by payment mode, with COD and Online payments being the most prominent. Another donut chart illustrates sales distribution by segment, with "Consumer" being the largest segment. Bar charts display sales by sub-category and category, identifying "Phones" and "Office Supplies" as top performers, respectively.A geographic map visualizes sales and profit by state across the US and Canada. Line graphs at the bottom track sales and profit trends over time, showing a clear seasonal pattern across the years 2019-2021. The color-coding and layout make the data easy to interpret at a glance.
+Technology:-
+Step 1 - Downlode/install Power Bi in your system
+Step 2 - Downlode and open File Global Sale Visualization.pbix
